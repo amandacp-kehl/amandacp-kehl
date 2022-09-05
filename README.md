@@ -1,4 +1,7 @@
 ## Hi there, I am Amanda Kehl, welcome to my GitHub!
+
+I am a software engineer student who has recently fallen in love with technology and development. I also study at Alura where I practice a lot. 
+
 <div align="center">
   <a href="https://github.com/amandacp-kehl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandacp-kehl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
